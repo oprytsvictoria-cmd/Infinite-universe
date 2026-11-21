@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Thorin Ironshield",
+        "class": "Warrior",
+        "max_health": 120,
+        "armor": 15,
+        "attack_power": 18,
+        "description": "Veteran dwarven defender of the Mountain Kingdom.",
+        "image_url": "https://example.com/assets/characters/thorin.png",
+        "abilities": []
+    },
+    {
+        "name": "Jaina Spellweaver",
+        "class": "Mage",
+        "max_health": 90,
+        "armor": 6,
+        "attack_power": 22,
+        "description": "Archmage specializing in high-risk pyromancy.",
+        "image_url": "https://example.com/assets/characters/jaina.png",
+        "abilities": []
+    },
+    {
+        "name": "Vasy",
+        "class": "Mage",
+        "max_health": 500,
+        "armor": 1000,
+        "attack_power": 66,
+        "description": "ImmortalAttackStrategy",
+        "image_url": "https://genshin.jmp.blue/characters/vasy/icon-big",
+        "abilities": []
+    }
+]
